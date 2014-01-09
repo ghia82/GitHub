@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <language>it-IT</language>
+      <pubDate>30/10/2013 11:00:01</pubDate>
+      <lastBuildDate>30/10/2013 11:00:01</lastBuildDate>
+      <generator>WebProfessional</generator>
+      <title>Sedi CNA Modena</title>
+      <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=9</link>
+      <description>Con le sue 58 sedi CNA è vicina a tutte le imprese della Provincia di Modena</description>
+      <item name="Bomporto">
+         <NomeSede>Bomporto - Bastiglia</NomeSede>
+         <title>Bomporto - Bastiglia</title>
+         <Fax>059/818114</Fax>
+         <Indirizzo>Via Adige 250/C</Indirizzo>
+         <Localita>c/o Centro Commerciale "ll Naviglio"</Localita>
+         <EmailSede>bomporto@mo.cna.it</EmailSede>
+         <PecSede>cnabomporto@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/8170811</Telefono>
+         <CodUff>002</CodUff>
+         <Zona>EST</Zona>
+         <Note>ORARI: MATTINO: ore 8.30 - 13.00&#xD;
+POMERIGGIO: MARTEDI' - GIOVEDI' ore 14.30 - 17.30</Note>
+         <Responsabile>Stefani Sandra</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_stefani.jpg</ImgResponsabile>
+         <CapSede>41030</CapSede>
+         <ComuneSede>BOMPORTO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Adige 250/C - BOMPORTO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_002_bomporto2.jpg_20130130164023</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=002&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=002&amp;from=apps</LinkSede>
+      </item>
+      <item name="Campogalliano">
+         <NomeSede>Campogalliano</NomeSede>
+         <title>Campogalliano</title>
+         <Fax>059/521350</Fax>
+         <Indirizzo>Via Marconi 10 - Direzionale R1</Indirizzo>
+         <Localita />
+         <EmailSede>campogalliano@mo.cna.it</EmailSede>
+         <PecSede>cnacampogalliano@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/521311</Telefono>
+         <CodUff>003</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Chesi Roberto</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_chesi.jpg</ImgResponsabile>
+         <CapSede>41011</CapSede>
+         <ComuneSede>CAMPOGALLIANO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Marconi 10 - Direzionale R1 - CAMPOGALLIANO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/Campogalliano.jpg_20130801112925</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=003&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=003&amp;from=apps</LinkSede>
+      </item>
+      <item name="Camposanto">
+         <NomeSede>Camposanto</NomeSede>
+         <title>Camposanto</title>
+         <Fax>0535/87637</Fax>
+         <Indirizzo>Via F.Baracca, 16-18</Indirizzo>
+         <Localita />
+         <EmailSede>camposanto@mo.cna.it</EmailSede>
+         <PecSede>cnasfelicesp@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/87464</Telefono>
+         <CodUff>004</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Somià Pasqualon Roberta</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41031</CapSede>
+         <ComuneSede>CAMPOSANTO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via F.Baracca, 16-18 - CAMPOSANTO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_004_camposanto.jpg_20130826110501</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=004&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=004&amp;from=apps</LinkSede>
+      </item>
+      <item name="Carpi Centro Storico">
+         <NomeSede>Carpi Centro Storico</NomeSede>
+         <title>Carpi Centro Storico</title>
+         <Fax>059/651148</Fax>
+         <Indirizzo>Via Peruzzi, 2</Indirizzo>
+         <Localita />
+         <EmailSede>carpi@mo.cna.it</EmailSede>
+         <PecSede>cnacarpicstorico@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/656811</Telefono>
+         <CodUff>005</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Barbara Bulgarelli</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_bulgarelli.jpg</ImgResponsabile>
+         <CapSede>41012</CapSede>
+         <ComuneSede>CARPI</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Peruzzi, 2 - CARPI (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_005_carpi.jpg_20100810155513</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=005&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=005&amp;from=apps</LinkSede>
+      </item>
+      <item name="Castelfranco Emilia">
+         <NomeSede>Castelfranco Emilia</NomeSede>
+         <title>Castelfranco Emilia</title>
+         <Fax>059/950890</Fax>
+         <Indirizzo>Via Emilia Est, 50</Indirizzo>
+         <Localita />
+         <EmailSede>castelfranco@mo.cna.it</EmailSede>
+         <PecSede>cnacastelfrancoemilia@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/950811</Telefono>
+         <CodUff>006</CodUff>
+         <Zona>EST</Zona>
+         <Note>ORARIO:&#xD;
+DAL LUNEDI AL VENERDI - MATTINO ore 8.30 - 13.00&#xD;
+LUNEDI, MERCOLEDI, GIOVEDI - POMERIGGIO ore 14.30 - 17.30</Note>
+         <Responsabile>Gozzoli Stefania</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_gozzoli.jpg</ImgResponsabile>
+         <CapSede>41013</CapSede>
+         <ComuneSede>CASTELFRANCO EMILIA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Emilia Est, 50 - CASTELFRANCO EMILIA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_006_castelfranco.jpg_20100810171001</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=006&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=006&amp;from=apps</LinkSede>
+      </item>
+      <item name="Castelnuovo Rangone">
+         <NomeSede>Castelnuovo Rangone</NomeSede>
+         <title>Castelnuovo Rangone</title>
+         <Fax>059/5333053</Fax>
+         <Indirizzo>P.zza Brodolini, 12</Indirizzo>
+         <Localita />
+         <EmailSede>castelnuovo@mo.cna.it</EmailSede>
+         <PecSede>cnacastelnuovo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/5333011</Telefono>
+         <CodUff>007</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Toni Simonetta</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_toni.jpg</ImgResponsabile>
+         <CapSede>41051</CapSede>
+         <ComuneSede>CASTELNUOVO RANGONE</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>P.zza Brodolini, 12 - CASTELNUOVO RANGONE (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_007_castelnuovo.jpg_20071015122020</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=007&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=007&amp;from=apps</LinkSede>
+      </item>
+      <item name="Castelvetro">
+         <NomeSede>Castelvetro</NomeSede>
+         <title>Castelvetro</title>
+         <Fax>059/799110</Fax>
+         <Indirizzo>Via Leonardo da Vinci, 1</Indirizzo>
+         <Localita />
+         <EmailSede>castelvetro@mo.cna.it</EmailSede>
+         <PecSede>cnacastelvetro@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/790252</Telefono>
+         <CodUff>008</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Simonini Paolo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_simonini.jpg</ImgResponsabile>
+         <CapSede>41014</CapSede>
+         <ComuneSede>CASTELVETRO DI MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Leonardo da Vinci, 1 - CASTELVETRO DI MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_008_castelvetro.jpg_20071018143152</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=008&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=008&amp;from=apps</LinkSede>
+      </item>
+      <item name="Cavezzo">
+         <NomeSede>Cavezzo</NomeSede>
+         <title>Cavezzo</title>
+         <Fax>0535/49299</Fax>
+         <Indirizzo>Via Papazzoni, 80</Indirizzo>
+         <Localita />
+         <EmailSede>cavezzo@mo.cna.it</EmailSede>
+         <PecSede>cnacavezzo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/44311</Telefono>
+         <CodUff>009</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Pellacani Natascia</Responsabile>
+         <ImgResponsabile />
+         <CapSede>41032</CapSede>
+         <ComuneSede>CAVEZZO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Papazzoni, 80 - CAVEZZO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_009_cavezzo.jpg_20130125153640</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=009&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=009&amp;from=apps</LinkSede>
+      </item>
+      <item name="Concordia sulla Secchia">
+         <NomeSede>Concordia sulla Secchia</NomeSede>
+         <title>Concordia sulla Secchia</title>
+         <Fax>0535/48410</Fax>
+         <Indirizzo>Via Mazzini, 68</Indirizzo>
+         <Localita />
+         <EmailSede>concordia@mo.cna.it</EmailSede>
+         <PecSede>cnaconcordia@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/48411</Telefono>
+         <CodUff>010</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Tanferri Daniele</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_dtanferri.jpg</ImgResponsabile>
+         <CapSede>41033</CapSede>
+         <ComuneSede>CONCORDIA SULLA SECCHIA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Mazzini, 68 - CONCORDIA SULLA SECCHIA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_010_concordia (2).jpg_20130826105802</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=010&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=010&amp;from=apps</LinkSede>
+      </item>
+      <item name="Fanano">
+         <NomeSede>Fanano</NomeSede>
+         <title>Fanano</title>
+         <Fax>0536/68079</Fax>
+         <Indirizzo>P.zza Rinaldi, 36/B</Indirizzo>
+         <Localita />
+         <EmailSede>fanano@mo.cna.it</EmailSede>
+         <PecSede>cnafanano@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/68080</Telefono>
+         <CodUff>011</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Canovi Paolo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41021</CapSede>
+         <ComuneSede>FANANO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>P.zza Rinaldi, 36/B - FANANO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_011_fanano.jpg_20130826105543</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=011&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=011&amp;from=apps</LinkSede>
+      </item>
+      <item name="Finale Emilia">
+         <NomeSede>Finale Emilia</NomeSede>
+         <title>Finale Emilia</title>
+         <Fax>0535/704601</Fax>
+         <Indirizzo>Via Stazione 1</Indirizzo>
+         <Localita />
+         <EmailSede>finale@mo.cna.it</EmailSede>
+         <PecSede>cnafinaleemilia@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/92561</Telefono>
+         <CodUff>012</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Golinelli Susanna</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41034</CapSede>
+         <ComuneSede>FINALE EMILIA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Stazione 1 - FINALE EMILIA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20100811092722</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=012&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=012&amp;from=apps</LinkSede>
+      </item>
+      <item name="Fiumalbo">
+         <NomeSede>Fiumalbo</NomeSede>
+         <title>Fiumalbo</title>
+         <Fax>0536/73084</Fax>
+         <Indirizzo>Piazza Jolanda 28/29</Indirizzo>
+         <Localita />
+         <EmailSede>fiumalbo@mo.cna.it</EmailSede>
+         <PecSede>cnafiumalbo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/73364</Telefono>
+         <CodUff>013</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Lenzini Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_lenzini.jpg</ImgResponsabile>
+         <CapSede>41022</CapSede>
+         <ComuneSede>FIUMALBO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Piazza Jolanda 28/29 - FIUMALBO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_013_fiumalbo.jpg_20130826105854</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=013&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=013&amp;from=apps</LinkSede>
+      </item>
+      <item name="Fiorano Modenese">
+         <NomeSede>Fiorano Modenese</NomeSede>
+         <title>Fiorano Modenese</title>
+         <Fax>0536/920810</Fax>
+         <Indirizzo>Via del Crociale 4/C</Indirizzo>
+         <Localita>Spezzano</Localita>
+         <EmailSede>fiorano@mo.cna.it</EmailSede>
+         <PecSede>cnafiorano@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/070720</Telefono>
+         <CodUff>014</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Rondelli Mauro</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_rondelli.jpg</ImgResponsabile>
+         <CapSede>41042</CapSede>
+         <ComuneSede>FIORANO MODENESE</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via del Crociale 4/C - FIORANO MODENESE (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_014_fiorano_modenese.jpg_20130826105712</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=014&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=014&amp;from=apps</LinkSede>
+      </item>
+      <item name="Formigine">
+         <NomeSede>Formigine</NomeSede>
+         <title>Formigine</title>
+         <Fax>059/559530</Fax>
+         <Indirizzo>Via Picelli, 42</Indirizzo>
+         <Localita />
+         <EmailSede>formigine@mo.cna.it</EmailSede>
+         <PecSede>cnaformigine@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/559511</Telefono>
+         <CodUff>015</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Ferri Simona</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_ferri.jpg</ImgResponsabile>
+         <CapSede>41043</CapSede>
+         <ComuneSede>FORMIGINE</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Picelli, 42 - FORMIGINE (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20090724150107</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=015&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=015&amp;from=apps</LinkSede>
+      </item>
+      <item name="Frassinoro">
+         <NomeSede>Frassinoro</NomeSede>
+         <title>Frassinoro</title>
+         <Fax>0536/969698</Fax>
+         <Indirizzo>Via Bibulca, 74</Indirizzo>
+         <Localita />
+         <EmailSede>frassinoro@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/969778</Telefono>
+         <CodUff>016</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Grandi Aldo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41044</CapSede>
+         <ComuneSede>FRASSINORO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Bibulca, 74 - FRASSINORO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20100920112212</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=016&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=016&amp;from=apps</LinkSede>
+      </item>
+      <item name="Guiglia">
+         <NomeSede>Guiglia</NomeSede>
+         <title>Guiglia</title>
+         <Fax>059/792948</Fax>
+         <Indirizzo>Via Roma, 68/F</Indirizzo>
+         <Localita />
+         <EmailSede>guiglia@mo.cna.it</EmailSede>
+         <PecSede>cnaguiglia@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/792407</Telefono>
+         <CodUff>017</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Poli Vitaliano</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_poli.jpg</ImgResponsabile>
+         <CapSede>41052</CapSede>
+         <ComuneSede>GUIGLIA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Roma, 68/F - GUIGLIA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_017_guiglia.jpg_20130826105638</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=017&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=017&amp;from=apps</LinkSede>
+      </item>
+      <item name="Lama Mocogno">
+         <NomeSede>Lama Mocogno</NomeSede>
+         <title>Lama Mocogno</title>
+         <Fax>0536/44175</Fax>
+         <Indirizzo>Via Nazionale Giardini, 315</Indirizzo>
+         <Localita />
+         <EmailSede>lama.mocogno@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/44788</Telefono>
+         <CodUff>018</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Borri Giuseppe</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41023</CapSede>
+         <ComuneSede>LAMA MOCOGNO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Nazionale Giardini, 315 - LAMA MOCOGNO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/lama_mocogno.jpg_20130801113349</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=018&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=018&amp;from=apps</LinkSede>
+      </item>
+      <item name="Maranello">
+         <NomeSede>Maranello</NomeSede>
+         <title>Maranello</title>
+         <Fax>0536/930460</Fax>
+         <Indirizzo>Via Claudia, 12</Indirizzo>
+         <Localita />
+         <EmailSede>maranello@mo.cna.it</EmailSede>
+         <PecSede>cnamaranello@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/930411</Telefono>
+         <CodUff>019</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Muratori Davide</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_muratori.jpg</ImgResponsabile>
+         <CapSede>41053</CapSede>
+         <ComuneSede>MARANELLO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Claudia, 12 - MARANELLO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_019_maranello.jpg_20130826110725</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=019&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=019&amp;from=apps</LinkSede>
+      </item>
+      <item name="Marano sul Panaro">
+         <NomeSede>Marano sul Panaro</NomeSede>
+         <title>Marano sul Panaro</title>
+         <Fax>059/793114</Fax>
+         <Indirizzo>Via Vignolese, 31</Indirizzo>
+         <Localita />
+         <EmailSede>marano@mo.cna.it</EmailSede>
+         <PecSede>cnavignola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/793261</Telefono>
+         <CodUff>020</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Masetti Lorella</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_masetti.jpg</ImgResponsabile>
+         <CapSede>41054</CapSede>
+         <ComuneSede>MARANO SUL PANARO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Vignolese, 31 - MARANO SUL PANARO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_020_marano.jpg_20071010124055</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=020&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=020&amp;from=apps</LinkSede>
+      </item>
+      <item name="Medolla">
+         <NomeSede>Medolla</NomeSede>
+         <title>Medolla</title>
+         <Fax>0535/52587</Fax>
+         <Indirizzo>Piazza del Popolo 3/5</Indirizzo>
+         <Localita />
+         <EmailSede>medolla@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/53247</Telefono>
+         <CodUff>021</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Pellacani Natascia</Responsabile>
+         <ImgResponsabile />
+         <CapSede>41036</CapSede>
+         <ComuneSede>MEDOLLA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Piazza del Popolo 3/5 - MEDOLLA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20100811091740</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=021&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=021&amp;from=apps</LinkSede>
+      </item>
+      <item name="Mirandola">
+         <NomeSede>Mirandola</NomeSede>
+         <title>Mirandola</title>
+         <Fax>0535/665691</Fax>
+         <Indirizzo>Via Milano, 19</Indirizzo>
+         <Localita />
+         <EmailSede>mirandola@mo.cna.it</EmailSede>
+         <PecSede>cnamirandola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/665611</Telefono>
+         <CodUff>022</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Benatti Paolo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_benatti.jpg</ImgResponsabile>
+         <CapSede>41037</CapSede>
+         <ComuneSede>MIRANDOLA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Milano, 19 - MIRANDOLA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_022_mirandola.jpg_20130329121335</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=022&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=022&amp;from=apps</LinkSede>
+      </item>
+      <item name="Montefiorino">
+         <NomeSede>Montefiorino</NomeSede>
+         <title>Montefiorino</title>
+         <Fax>0536/965024</Fax>
+         <Indirizzo>P.zza Fontana, 38</Indirizzo>
+         <Localita />
+         <EmailSede>montefiorino@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/965088</Telefono>
+         <CodUff>024</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Grandi Aldo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41045</CapSede>
+         <ComuneSede>MONTEFIORINO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>P.zza Fontana, 38 - MONTEFIORINO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_024_montefiorino.jpg_20130826110759</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=024&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=024&amp;from=apps</LinkSede>
+      </item>
+      <item name="Montese">
+         <NomeSede>Montese</NomeSede>
+         <title>Montese</title>
+         <Fax>059/982288</Fax>
+         <Indirizzo>Via Roma 29</Indirizzo>
+         <Localita />
+         <EmailSede>montese@mo.cna.it</EmailSede>
+         <PecSede>cnamontese@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/981896</Telefono>
+         <CodUff>026</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Poli Vitaliano</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_poli.jpg</ImgResponsabile>
+         <CapSede>41055</CapSede>
+         <ComuneSede>MONTESE</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Roma 29 - MONTESE (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_026_montese.jpg_20130826110930</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=026&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=026&amp;from=apps</LinkSede>
+      </item>
+      <item name="Nonantola">
+         <NomeSede>Nonantola</NomeSede>
+         <title>Nonantola</title>
+         <Fax>059/546420</Fax>
+         <Indirizzo>Via V.Veneto, 85/1</Indirizzo>
+         <Localita />
+         <EmailSede>nonantola@mo.cna.it</EmailSede>
+         <PecSede>cnanonantola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/540611</Telefono>
+         <CodUff>027</CodUff>
+         <Zona>EST</Zona>
+         <Note>Orari:&#xD;
+MATTINO 8,30-13,00 POMERIGGIO 14,30-17,30&#xD;
+SI RICEVE PER APPUNTAMENTO</Note>
+         <Responsabile>Zironi Fiorella</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_zironi.jpg</ImgResponsabile>
+         <CapSede>41015</CapSede>
+         <ComuneSede>NONANTOLA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via V.Veneto, 85/1 - NONANTOLA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_027_nonantola.jpg_20130130163543</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=027&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=027&amp;from=apps</LinkSede>
+      </item>
+      <item name="Novi di Modena">
+         <NomeSede>Novi di Modena</NomeSede>
+         <title>Novi di Modena</title>
+         <Fax>059/670333</Fax>
+         <Indirizzo>Corso Matteotti, 6</Indirizzo>
+         <Localita />
+         <EmailSede>novi@mo.cna.it</EmailSede>
+         <PecSede>cnanovi@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/679311</Telefono>
+         <CodUff>028</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Lorena Gasperi</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41016</CapSede>
+         <ComuneSede>NOVI DI MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Corso Matteotti, 6 - NOVI DI MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_028_novi_modena.jpg_20130826110348</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=028&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=028&amp;from=apps</LinkSede>
+      </item>
+      <item name="Palagano">
+         <NomeSede>Palagano</NomeSede>
+         <title>Palagano</title>
+         <Fax>0536/970064</Fax>
+         <Indirizzo>Via XXIII Dicembre, 19 - 23/a</Indirizzo>
+         <Localita />
+         <EmailSede>palagano@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/961301</Telefono>
+         <CodUff>029</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Grandi Aldo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41046</CapSede>
+         <ComuneSede>PALAGANO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via XXIII Dicembre, 19 - 23/a - PALAGANO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20130826110906</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=029&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=029&amp;from=apps</LinkSede>
+      </item>
+      <item name="Pavullo">
+         <NomeSede>Pavullo</NomeSede>
+         <title>Pavullo</title>
+         <Fax>0536/327650</Fax>
+         <Indirizzo>Viale Martiri, 7</Indirizzo>
+         <Localita />
+         <EmailSede>pavullo@mo.cna.it</EmailSede>
+         <PecSede>cnapavullo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/327611</Telefono>
+         <CodUff>030</CodUff>
+         <Zona>PAV</Zona>
+         <Note>Orario:Da MARTEDI' al VENERDI' ore 8.30 - 13.00 e 14.30 - 18.30SABATO ore 8.30 - 12.00</Note>
+         <Responsabile>Vecchiè Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vecchie.jpg</ImgResponsabile>
+         <CapSede>41026</CapSede>
+         <ComuneSede>PAVULLO NEL FRIGNANO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Viale Martiri, 7 - PAVULLO NEL FRIGNANO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/20060704185424_sede_030_pavullo.jpg</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=030&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=030&amp;from=apps</LinkSede>
+      </item>
+      <item name="Pievepelago">
+         <NomeSede>Pievepelago</NomeSede>
+         <title>Pievepelago</title>
+         <Fax>0536/71399</Fax>
+         <Indirizzo>P.zza V.Veneto, 2</Indirizzo>
+         <Localita />
+         <EmailSede>pievepelago@mo.cna.it</EmailSede>
+         <PecSede>cnapievepelago@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/71389</Telefono>
+         <CodUff>031</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Lenzini Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_lenzini.jpg</ImgResponsabile>
+         <CapSede>41027</CapSede>
+         <ComuneSede>PIEVEPELAGO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>P.zza V.Veneto, 2 - PIEVEPELAGO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_031_pievelago.jpg_20130826111104</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=031&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=031&amp;from=apps</LinkSede>
+      </item>
+      <item name="Abetone">
+         <NomeSede>Abetone</NomeSede>
+         <title>Abetone</title>
+         <Fax>0573/60094</Fax>
+         <Indirizzo>Via Brennero, 305</Indirizzo>
+         <Localita />
+         <EmailSede>abetone@mo.cna.it</EmailSede>
+         <PecSede>cnafiumalbo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0573/60025</Telefono>
+         <CodUff>032</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Lenzini Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_lenzini.jpg</ImgResponsabile>
+         <CapSede>51021</CapSede>
+         <ComuneSede>ABETONE</ComuneSede>
+         <ProvSede>PT</ProvSede>
+         <description>Via Brennero, 305 - ABETONE (PT)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_032_abetone.jpg_20130826111043</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=032&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=032&amp;from=apps</LinkSede>
+      </item>
+      <item name="Ravarino">
+         <NomeSede>Ravarino</NomeSede>
+         <title>Ravarino</title>
+         <Fax>059/905311</Fax>
+         <Indirizzo>Via Roma, 401</Indirizzo>
+         <Localita />
+         <EmailSede>ravarino@mo.cna.it</EmailSede>
+         <PecSede>cnanonantola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/900155</Telefono>
+         <CodUff>034</CodUff>
+         <Zona>EST</Zona>
+         <Note>Orari:MATTINO 8,00-13,00 POMERIGGIO 14,30-17,00SI RICEVE PER APPUNTAMENTO</Note>
+         <Responsabile>Zironi Fiorella</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_zironi.jpg</ImgResponsabile>
+         <CapSede>41017</CapSede>
+         <ComuneSede>RAVARINO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Roma, 401 - RAVARINO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_034_ravarino.jpg_20130130163222</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=034&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=034&amp;from=apps</LinkSede>
+      </item>
+      <item name="Sassuolo">
+         <NomeSede>Sassuolo Sede Comunale Via Regina Pacis</NomeSede>
+         <title>Sassuolo Sede Comunale Via Regina Pacis</title>
+         <Fax>0536/875791</Fax>
+         <Indirizzo>Via Regina Pacis, 42 int. 1</Indirizzo>
+         <Localita />
+         <EmailSede>sassuolo.regina@mo.cna.it</EmailSede>
+         <PecSede>cnasassuoloregina@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/875711</Telefono>
+         <CodUff>035</CodUff>
+         <Zona>SAS</Zona>
+         <Note />
+         <Responsabile>Stagi Francesco</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_stagi.jpg</ImgResponsabile>
+         <CapSede>41049</CapSede>
+         <ComuneSede>SASSUOLO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Regina Pacis, 42 int. 1 - SASSUOLO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_035_sassuoloregina.jpg_20070810172048</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=035&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=035&amp;from=apps</LinkSede>
+      </item>
+      <item name="San Cesario">
+         <NomeSede>San Cesario</NomeSede>
+         <title>San Cesario</title>
+         <Fax>059/930311</Fax>
+         <Indirizzo>Via Marconi 39/41</Indirizzo>
+         <Localita />
+         <EmailSede>s.cesario@mo.cna.it</EmailSede>
+         <PecSede>cnascesario@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/930184</Telefono>
+         <CodUff>036</CodUff>
+         <Zona>EST</Zona>
+         <Note>Orario: &#xD;
+da lunedì a venerdì ore 08:30 - 13.00 e giovedì anche al pomerigio dalle 14.30 - 17.30</Note>
+         <Responsabile>Gozzoli Stefania</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_gozzoli.jpg</ImgResponsabile>
+         <CapSede>41018</CapSede>
+         <ComuneSede>SAN CESARIO SUL PANARO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Marconi 39/41 - SAN CESARIO SUL PANARO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_036_sancesario.jpg_20130130162911</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=036&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=036&amp;from=apps</LinkSede>
+      </item>
+      <item name="San Felice sul Panaro">
+         <NomeSede>San Felice sul Panaro</NomeSede>
+         <title>San Felice sul Panaro</title>
+         <Fax>0535/85899</Fax>
+         <Indirizzo>Via Campo di Pozzo 255</Indirizzo>
+         <Localita />
+         <EmailSede>s.felice@mo.cna.it</EmailSede>
+         <PecSede>cnasfelicesp@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/85811</Telefono>
+         <CodUff>037</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Somià Pasqualon Roberta</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41038</CapSede>
+         <ComuneSede>SAN FELICE SUL PANARO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Campo di Pozzo 255 - SAN FELICE SUL PANARO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_037_san_felice.jpg_20130219102206</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=037&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=037&amp;from=apps</LinkSede>
+      </item>
+      <item name="San Possidonio">
+         <NomeSede>San Possidonio</NomeSede>
+         <title>San Possidonio</title>
+         <Fax>0535/38166</Fax>
+         <Indirizzo>Via Martiri della Liberta', 4</Indirizzo>
+         <Localita />
+         <EmailSede>s.possidonio@mo.cna.it</EmailSede>
+         <PecSede>cnaconcordia@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/39907</Telefono>
+         <CodUff>038</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Tanferri Daniele</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_dtanferri.jpg</ImgResponsabile>
+         <CapSede>41039</CapSede>
+         <ComuneSede>SAN POSSIDONIO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Martiri della Liberta', 4 - SAN POSSIDONIO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_038_san_poseidonio.jpg_20130826110656</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=038&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=038&amp;from=apps</LinkSede>
+      </item>
+      <item name="Savignano sul Panaro">
+         <NomeSede>Savignano sul Panaro</NomeSede>
+         <title>Savignano sul Panaro</title>
+         <Fax>059/730547</Fax>
+         <Indirizzo>Piazza Falcone, 21</Indirizzo>
+         <Localita />
+         <EmailSede>savignano@mo.cna.it</EmailSede>
+         <PecSede>cnasavignano@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/730061</Telefono>
+         <CodUff>041</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Costanzini Silio</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_costanzini.jpg</ImgResponsabile>
+         <CapSede>41056</CapSede>
+         <ComuneSede>SAVIGNANO SUL PANARO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Piazza Falcone, 21 - SAVIGNANO SUL PANARO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_041_savignano2.jpg_20130826111225</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=041&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=041&amp;from=apps</LinkSede>
+      </item>
+      <item name="Soliera - Limidi">
+         <NomeSede>Soliera - Limidi</NomeSede>
+         <title>Soliera - Limidi</title>
+         <Fax>059/855690</Fax>
+         <Indirizzo>Via Marconi, 266</Indirizzo>
+         <Localita />
+         <EmailSede>soliera@mo.cna.it</EmailSede>
+         <PecSede>cnasoliera@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/855611</Telefono>
+         <CodUff>042</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Roberta Prampolini</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41019</CapSede>
+         <ComuneSede>SOLIERA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Marconi, 266 - SOLIERA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_042_soliera.jpg_20130826111239</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=042&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=042&amp;from=apps</LinkSede>
+      </item>
+      <item name="Serramazzoni">
+         <NomeSede>Serramazzoni</NomeSede>
+         <title>Serramazzoni</title>
+         <Fax>0536/937070</Fax>
+         <Indirizzo>Via XXIV Maggio, 105</Indirizzo>
+         <Localita />
+         <EmailSede>serramazzoni@mo.cna.it</EmailSede>
+         <PecSede>cnapavullo@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/952771</Telefono>
+         <CodUff>043</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Vecchiè Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vecchie.jpg</ImgResponsabile>
+         <CapSede>41028</CapSede>
+         <ComuneSede>SERRAMAZZONI</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via XXIV Maggio, 105 - SERRAMAZZONI (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_043_serramazzoni.jpg_20130826110021</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=043&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=043&amp;from=apps</LinkSede>
+      </item>
+      <item name="Sestola">
+         <NomeSede>Sestola</NomeSede>
+         <title>Sestola</title>
+         <Fax>0536/62293</Fax>
+         <Indirizzo>C.so Liberta', 23</Indirizzo>
+         <Localita />
+         <EmailSede>sestola@mo.cna.it</EmailSede>
+         <PecSede>cnasestola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/62449</Telefono>
+         <CodUff>044</CodUff>
+         <Zona>PAV</Zona>
+         <Note />
+         <Responsabile>Canovi Paolo</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41029</CapSede>
+         <ComuneSede>SESTOLA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>C.so Liberta', 23 - SESTOLA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_044_sestola.jpg_20130826111118</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=044&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=044&amp;from=apps</LinkSede>
+      </item>
+      <item name="Spilamberto">
+         <NomeSede>Spilamberto</NomeSede>
+         <title>Spilamberto</title>
+         <Fax>059/7862060</Fax>
+         <Indirizzo>Piazza Augusto Bianchini, 4</Indirizzo>
+         <Localita />
+         <EmailSede>spilamberto@mo.cna.it</EmailSede>
+         <PecSede>cnaspilamberto@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/7862011</Telefono>
+         <CodUff>045</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Roversi Nedda</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41057</CapSede>
+         <ComuneSede>SPILAMBERTO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Piazza Augusto Bianchini, 4 - SPILAMBERTO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_045_spilamberto (2).jpg_20130826111005</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=045&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=045&amp;from=apps</LinkSede>
+      </item>
+      <item name="Vignola">
+         <NomeSede>Vignola</NomeSede>
+         <title>Vignola</title>
+         <Fax>059/762007</Fax>
+         <Indirizzo>Via Caselline, 605/619</Indirizzo>
+         <Localita />
+         <EmailSede>vignola@mo.cna.it</EmailSede>
+         <PecSede>cnavignola@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/780711</Telefono>
+         <CodUff>046</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Masetti Lorella</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_masetti.jpg</ImgResponsabile>
+         <CapSede>41058</CapSede>
+         <ComuneSede>VIGNOLA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Caselline, 605/619 - VIGNOLA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_046_vignola.jpg_20071010124212</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=046&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=046&amp;from=apps</LinkSede>
+      </item>
+      <item name="Zocca">
+         <NomeSede>Zocca</NomeSede>
+         <title>Zocca</title>
+         <Fax>059/985147</Fax>
+         <Indirizzo>Via M.Tesi, 1452</Indirizzo>
+         <Localita />
+         <EmailSede>zocca@mo.cna.it</EmailSede>
+         <PecSede>cnazocca@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/987146</Telefono>
+         <CodUff>047</CodUff>
+         <Zona>VIG</Zona>
+         <Note />
+         <Responsabile>Poli Vitaliano</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_poli.jpg</ImgResponsabile>
+         <CapSede>41059</CapSede>
+         <ComuneSede>ZOCCA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via M.Tesi, 1452 - ZOCCA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_047_zocca.jpg_20130826110253</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=047&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=047&amp;from=apps</LinkSede>
+      </item>
+      <item name="Rovereto sulla Secchia">
+         <NomeSede>Rovereto sulla Secchia</NomeSede>
+         <title>Rovereto sulla Secchia</title>
+         <Fax>059/672457</Fax>
+         <Indirizzo>Piazza Umberto Bisi, 17</Indirizzo>
+         <Localita>ROVERETO S/S</Localita>
+         <EmailSede>rovereto@mo.cna.it</EmailSede>
+         <PecSede>cnanovi@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/671354</Telefono>
+         <CodUff>048</CodUff>
+         <Zona>CAR</Zona>
+         <Note>Sede Provvisoria causa inagibilità:&#xD;
+Via Damiano Chiesa, 4 - ROVERETO (MO)</Note>
+         <Responsabile>Lorena Gasperi</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41016</CapSede>
+         <ComuneSede>NOVI DI MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Piazza Umberto Bisi, 17 - NOVI DI MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20100811091349</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=048&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=048&amp;from=apps</LinkSede>
+      </item>
+      <item name="Modena San Faustino">
+         <NomeSede>Modena San Faustino</NomeSede>
+         <title>Modena San Faustino</title>
+         <Fax>059/299699</Fax>
+         <Indirizzo>Via Scaglia Est, 5</Indirizzo>
+         <Localita>c/o Direzionale Modena Due</Localita>
+         <EmailSede>s.faustino@mo.cna.it</EmailSede>
+         <PecSede>cnamosfaustino@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/299611</Telefono>
+         <CodUff>051</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Guizzardi Claudia</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_guizzardi.jpg</ImgResponsabile>
+         <CapSede>41126</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Scaglia Est, 5 - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_051_modena_san_faustino.jpg_20130826110423</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=051&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=051&amp;from=apps</LinkSede>
+      </item>
+      <item name="Modena S.Agnese">
+         <NomeSede>Modena S.Agnese</NomeSede>
+         <title>Modena S.Agnese</title>
+         <Fax>059/3687099</Fax>
+         <Indirizzo>Via Vignolese, 849</Indirizzo>
+         <Localita>c/o Centro Commerciale "I Gelsi" - 1o Piano</Localita>
+         <EmailSede>s.agnese@mo.cna.it</EmailSede>
+         <PecSede>cnamosagnese@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/3687011</Telefono>
+         <CodUff>055</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Maurizio Ronchi</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41125</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Vignolese, 849 - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_055_modena_san_agnese.jpg_20130826111311</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=055&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=055&amp;from=apps</LinkSede>
+      </item>
+      <item name="Modena Centro">
+         <NomeSede>Modena Centro</NomeSede>
+         <title>Modena Centro</title>
+         <Fax>059/420999</Fax>
+         <Indirizzo>Via Ciro Menotti, 21</Indirizzo>
+         <Localita />
+         <EmailSede>centro@mo.cna.it</EmailSede>
+         <PecSede>cnamocentro@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/420911</Telefono>
+         <CodUff>056</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Faraguti Maria Rosa</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_faraguti.jpg</ImgResponsabile>
+         <CapSede>41121</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Ciro Menotti, 21 - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_056_mocentro.jpg_20100831121350</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=056&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=056&amp;from=apps</LinkSede>
+      </item>
+      <item name="Modena Est Torrazzi">
+         <NomeSede>Modena Est Torrazzi</NomeSede>
+         <title>Modena Est Torrazzi</title>
+         <Fax>059/418198</Fax>
+         <Indirizzo>Via Malavolti, 27</Indirizzo>
+         <Localita />
+         <EmailSede>modena.est@mo.cna.it</EmailSede>
+         <PecSede>cnamoest@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/418111</Telefono>
+         <CodUff>057</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Reggiani Enrico</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_reggiani.jpg</ImgResponsabile>
+         <CapSede>41122</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Malavolti, 27 - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_057_modena_est.jpg_20130826110212</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=057&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=057&amp;from=apps</LinkSede>
+      </item>
+      <item name="Modena Madonnina">
+         <NomeSede>Modena Madonnina</NomeSede>
+         <title>Modena Madonnina</title>
+         <Fax>059/332299</Fax>
+         <Indirizzo>Via V. Alfieri, 28 - angolo Via Emilia Ovest</Indirizzo>
+         <Localita />
+         <EmailSede>madonnina@mo.cna.it</EmailSede>
+         <PecSede>cnamomadonnina@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/381811</Telefono>
+         <CodUff>059</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Manuzzi Michela</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41123</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via V. Alfieri, 28 - angolo Via Emilia Ovest - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_059_modena_madonnina.jpg_20130826112551</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=059&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=059&amp;from=apps</LinkSede>
+      </item>
+      <item name="Massa Finalese">
+         <NomeSede>Massa Finalese</NomeSede>
+         <title>Massa Finalese</title>
+         <Fax>0535/96330</Fax>
+         <Indirizzo>Via per Modena, 262/B</Indirizzo>
+         <Localita>MASSA FINALESE</Localita>
+         <EmailSede>massa.finalese@mo.cna.it</EmailSede>
+         <PecSede>cnamassafinalese@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0535/99071</Telefono>
+         <CodUff>063</CodUff>
+         <Zona>NOR</Zona>
+         <Note>ORARI:&#xD;
+Lun-Mer-Gio ore 8.30 - 13.00 e 14.30 - 17.30&#xD;
+Mar-Ven ore 8.30 - 13.00</Note>
+         <Responsabile>Golinelli Susanna</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41034</CapSede>
+         <ComuneSede>FINALE EMILIA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via per Modena, 262/B - FINALE EMILIA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_063_massa_finalese.jpg_20130826110534</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=063&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=063&amp;from=apps</LinkSede>
+      </item>
+      <item name="Carpi Sud">
+         <NomeSede>Carpi Sud</NomeSede>
+         <title>Carpi Sud</title>
+         <Fax>059/6321299</Fax>
+         <Indirizzo>Via Ugo Da Carpi, 62 - angolo Via G.Pascoli</Indirizzo>
+         <Localita />
+         <EmailSede>carpi.sud@mo.cna.it</EmailSede>
+         <PecSede>cnacarpisud@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/6321211</Telefono>
+         <CodUff>074</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Lugli Vanni</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_lugli.jpg</ImgResponsabile>
+         <CapSede>41012</CapSede>
+         <ComuneSede>CARPI</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Ugo Da Carpi, 62 - angolo Via G.Pascoli - CARPI (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_074_carpi_sud.jpg_20130826112031</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=074&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=074&amp;from=apps</LinkSede>
+      </item>
+      <item name="Carpi Nord">
+         <NomeSede>Carpi Nord</NomeSede>
+         <title>Carpi Nord</title>
+         <Fax>059/6321500</Fax>
+         <Indirizzo>Via Firenze, 2</Indirizzo>
+         <Localita />
+         <EmailSede>carpi.nord@mo.cna.it</EmailSede>
+         <PecSede>cnacarpinord@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/6321511</Telefono>
+         <CodUff>075</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Guerra Nadia</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_guerra.jpg</ImgResponsabile>
+         <CapSede>41012</CapSede>
+         <ComuneSede>CARPI</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Firenze, 2 - CARPI (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_075_carpinord.jpg_20130826110118</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=075&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=075&amp;from=apps</LinkSede>
+      </item>
+      <item name="Limidi">
+         <NomeSede>Limidi</NomeSede>
+         <title>Limidi</title>
+         <Fax>059/858161</Fax>
+         <Indirizzo>Via Indipendenza 43</Indirizzo>
+         <Localita>LIMIDI</Localita>
+         <EmailSede>limidi@mo.cna.it</EmailSede>
+         <PecSede>cnalimidi@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/561981</Telefono>
+         <CodUff>079</CodUff>
+         <Zona>CAR</Zona>
+         <Note />
+         <Responsabile>Roberta Prampolini</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41019</CapSede>
+         <ComuneSede>SOLIERA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Indipendenza 43 - SOLIERA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_079_limidi.jpg_20130826110054</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=079&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=079&amp;from=apps</LinkSede>
+      </item>
+      <item name="MODENA SEDE PROVINCIALE">
+         <NomeSede>MODENA SEDE PROVINCIALE</NomeSede>
+         <title>MODENA SEDE PROVINCIALE</title>
+         <Fax>059/418199</Fax>
+         <Indirizzo>Via Malavolti, 27</Indirizzo>
+         <Localita />
+         <EmailSede>info@mo.cna.it</EmailSede>
+         <PecSede>cnaservizimodena@cert.cna.it</PecSede>
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/418111</Telefono>
+         <CodUff>091</CodUff>
+         <Zona>MOD</Zona>
+         <Note />
+         <Responsabile>Ufficio Relazioni Esterne</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vuoto.jpg</ImgResponsabile>
+         <CapSede>41122</CapSede>
+         <ComuneSede>MODENA</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Malavolti, 27 - MODENA (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_000_provinciale.jpg_20070810181417</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=091&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=091&amp;from=apps</LinkSede>
+      </item>
+      <item name="Polinago">
+         <NomeSede>Polinago</NomeSede>
+         <title>Polinago</title>
+         <Fax>0536/47162</Fax>
+         <Indirizzo>Via della Pieve, 5</Indirizzo>
+         <Localita />
+         <EmailSede>polinago@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>0536/47162</Telefono>
+         <CodUff>095</CodUff>
+         <Zona>PAV</Zona>
+         <Note>Orario: Giovedì dalle 9.00 alle 12.30</Note>
+         <Responsabile>Vecchiè Andrea</Responsabile>
+         <ImgResponsabile>/site/cnamo_webprofessional_it/firme/fotofirma_vecchie.jpg</ImgResponsabile>
+         <CapSede>41040</CapSede>
+         <ComuneSede>POLINAGO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via della Pieve, 5 - POLINAGO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/Polinago.jpg_20130801114009</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=095&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=095&amp;from=apps</LinkSede>
+      </item>
+      <item name="San Prospero">
+         <NomeSede>San Prospero</NomeSede>
+         <title>San Prospero</title>
+         <Fax>059/8080792</Fax>
+         <Indirizzo>Via Canaletto 26/N</Indirizzo>
+         <Localita />
+         <EmailSede>s.prospero@mo.cna.it</EmailSede>
+         <PecSede />
+         <Mappa>Visualizza Sedi CNA Modena in una mappa di dimensioni maggiori</Mappa>
+         <Telefono>059/8080711</Telefono>
+         <CodUff>039</CodUff>
+         <Zona>NOR</Zona>
+         <Note />
+         <Responsabile>Pellacani Natascia</Responsabile>
+         <ImgResponsabile />
+         <CapSede>41030</CapSede>
+         <ComuneSede>SAN PROSPERO</ComuneSede>
+         <ProvSede>MO</ProvSede>
+         <description>Via Canaletto 26/N - SAN PROSPERO (MO)</description>
+         <FotoSede>site/cnamo_webprofessional_it/dbtools/0/images/wpt_sedicna/sede_999_default.jpg_20081210145207</FotoSede>
+         <link>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=039&amp;from=apps</link>
+         <LinkSede>http://www.mo.cna.it/default.php?t=site&amp;pgid=144&amp;wsede=039&amp;from=apps</LinkSede>
+      </item>
+   </channel>
+</rss>
